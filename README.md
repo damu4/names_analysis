@@ -1,6 +1,6 @@
 # Given names analysis
 
-Analysis of given names in the population of U.S. births from 1880 to 2010
+Analysis of given names in the population of U.S. births from 1880 to 2010.<br>
 The code is in Jupyter Notebook format.
 
 ## Getting Started
